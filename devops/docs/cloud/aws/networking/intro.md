@@ -1,7 +1,7 @@
 ---
 id: networking-intro
-title: AWS Networking Overview
 sidebar_label: Networking
+title: AWS Networking Overview
 ---
 
 # AWS Networking
@@ -10,9 +10,9 @@ This section covers core AWS networking concepts and services, including VPCs, r
 
 ## Topics
 
-- [VPC](./vpc/vpc-intro.md): Virtual Private Cloud fundamentals and setup
-- [Routing](./vpc/routing.md): Route tables and traffic flow
-- [Subnets](./vpc/subnets.md): Subnetting strategies and best practices
-- [Firewalls](./firewalls.md): Security Groups and Network ACLs
-- [Load Balancers](./load-balancers.md): Types and use cases
-- [Other Topics](./other.md): Additional networking features
+- [VPC](vpc/vpc-intro): Virtual Private Cloud fundamentals and setup
+- [Routing](vpc/routing): Route tables and traffic flow
+- [Subnets](vpc/subnets): Subnetting strategies and best practices
+- [Firewalls](firewalls): Security Groups and Network ACLs
+- [Load Balancers](load-balancers): Types and use cases
+- [Other Topics](other): Additional networking features

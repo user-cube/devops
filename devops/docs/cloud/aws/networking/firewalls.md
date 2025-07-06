@@ -1,7 +1,7 @@
 ---
 id: firewalls
 sidebar_label: Firewalls
-title: Firewalls: Security Groups & NACLs
+title: "Firewalls: Security Groups & NACLs"
 ---
 
 # Firewalls: Security Groups & NACLs

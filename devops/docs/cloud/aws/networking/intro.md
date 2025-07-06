@@ -10,8 +10,9 @@ This section covers core AWS networking concepts and services, including VPCs, r
 
 ## Topics
 
-- [VPC](./vpc.md): Virtual Private Cloud fundamentals and setup
-- [Routing](./routing.md): Route tables and traffic flow
-- [Subnets](./subnets.md): Subnetting strategies and best practices
+- [VPC](./vpc/vpc-intro.md): Virtual Private Cloud fundamentals and setup
+- [Routing](./vpc/routing.md): Route tables and traffic flow
+- [Subnets](./vpc/subnets.md): Subnetting strategies and best practices
 - [Firewalls](./firewalls.md): Security Groups and Network ACLs
 - [Load Balancers](./load-balancers.md): Types and use cases
+- [Other Topics](./other.md): Additional networking features

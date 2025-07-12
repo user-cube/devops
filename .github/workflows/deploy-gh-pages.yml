@@ -25,6 +25,9 @@ jobs:
       - name: Build website
         run: npm run build
 
+      - name: Add CNAME file from repository root
+        run: cp CNAME build/
+
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
         with:

@@ -87,9 +87,9 @@ const config: Config = {
         },
         {
           type: 'docSidebar',
-          sidebarId: 'cloudSidebar',
+          sidebarId: 'awsSidebar',
           position: 'left',
-          label: 'Cloud',
+          label: 'AWS',
         },
         {
           type: 'docSidebar',
@@ -111,7 +111,7 @@ const config: Config = {
           title: 'Docs',
           items: [
             { label: 'Kubernetes', to: '/docs/kubernetes/intro' },
-            { label: 'Cloud', to: '/docs/cloud/intro' },
+            { label: 'AWS', to: '/docs/aws/intro' },
             { label: 'Terraform', to: '/docs/terraform/intro' },
           ],
         },

@@ -26,6 +26,7 @@ const sidebars: SidebarsConfig = {
             items: [
               'aws/networking/vpc/subnets',
               'aws/networking/vpc/routing',
+              'aws/networking/vpc/igw',
             ],
           },
           {

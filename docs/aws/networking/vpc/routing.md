@@ -51,4 +51,3 @@ AWS uses **routing tables** to control how traffic is directed:
 **Learn more:**
 
 - [AWS VPC Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html)
-- [Subnets in AWS VPC](./subnets.md)

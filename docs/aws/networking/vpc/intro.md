@@ -53,5 +53,3 @@ Each AWS region has a default VPC:
 **Learn more:**
 
 - [AWS VPC Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
-- [Subnets in AWS VPC](./subnets.md)
-- [Routing in AWS VPC](./routing.md)

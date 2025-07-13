@@ -22,10 +22,10 @@ function HomepageHeader() {
           <Link className="button button--secondary button--lg" to="/docs/kubernetes/intro">
             Kubernetes Docs
           </Link>
-          <Link className="button button--secondary button--lg" to="/docs/aws/intro" style={{marginLeft: '1rem'}}>
+          <Link className="button button--secondary button--lg" to="/docs/aws/intro">
             AWS Docs
           </Link>
-          <Link className="button button--secondary button--lg" to="/docs/terraform/intro" style={{marginLeft: '1rem'}}>
+          <Link className="button button--secondary button--lg" to="/docs/terraform/intro">
             Terraform Docs
           </Link>
         </div>

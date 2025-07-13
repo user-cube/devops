@@ -30,6 +30,7 @@ const sidebars: SidebarsConfig = {
               'aws/networking/vpc/natgateway',
               'aws/networking/vpc/privatevspublic',
               'aws/networking/vpc/dns',
+              'aws/networking/vpc/elasticip',
             ],
           },
           {

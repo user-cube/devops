@@ -12,20 +12,20 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Kubernetes',
-    imgSrc: '/img/kubernetes/kubernetes_logo.webp',
-    description: (
-      <>
-        Kubernetes orchestration and management for your cloud-native workloads.
-      </>
-    ),
-  },
-  {
     title: 'Cloud Providers',
     imgSrc: '/img/cloud/providers.svg',
     description: (
       <>
         AWS, Azure, Google Cloud and more—multi-cloud docs and best practices.
+      </>
+    ),
+  },
+  {
+    title: 'Kubernetes',
+    imgSrc: '/img/kubernetes/kubernetes_logo.webp',
+    description: (
+      <>
+        Kubernetes orchestration and management for your cloud-native workloads.
       </>
     ),
   },

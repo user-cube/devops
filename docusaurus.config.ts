@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'DevOps Knowledge Base',
   tagline: 'Centralized documentation for DevOps topics',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logos/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -77,7 +77,7 @@ const config: Config = {
       title: 'DevOps Knowledge Base',
       logo: {
         alt: 'DevOps Knowledge Base Logo',
-        src: 'img/logos/logo.svg',
+        src: 'img/logos/logo-no-background.png',
       },
       items: [
         {

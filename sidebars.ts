@@ -27,6 +27,10 @@ const sidebars: SidebarsConfig = {
               'aws/networking/vpc/subnets',
               'aws/networking/vpc/routing',
               'aws/networking/vpc/igw',
+              'aws/networking/vpc/natgateway',
+              'aws/networking/vpc/privatevspublic',
+              'aws/networking/vpc/dns',
+              'aws/networking/vpc/elasticip',
             ],
           },
           {

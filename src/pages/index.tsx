@@ -19,11 +19,11 @@ function HomepageHeader() {
           Centralized documentation for Kubernetes, Cloud, Terraform, and more.
         </p>
         <div className={styles.buttons}>
-          <Link className="button button--secondary button--lg" to="/docs/kubernetes/intro">
-            Kubernetes Docs
-          </Link>
           <Link className="button button--secondary button--lg" to="/docs/aws/intro">
             AWS Docs
+          </Link>
+          <Link className="button button--secondary button--lg" to="/docs/kubernetes/intro">
+            Kubernetes Docs
           </Link>
           <Link className="button button--secondary button--lg" to="/docs/terraform/intro">
             Terraform Docs

@@ -4,7 +4,7 @@ sidebar_label: "Internet Gateways"
 title: "Internet Gateways"
 ---
 
-# Internet Gateways (IGW)
+# AWS Internet Gateways (IGW)
 
 Internet Gateways (IGW) are essential for enabling public access to resources in your AWS VPC. This guide explains the key concepts and steps for configuring IGWs.
 

@@ -77,7 +77,7 @@ const config: Config = {
       title: 'DevOps Knowledge Base',
       logo: {
         alt: 'DevOps Knowledge Base Logo',
-        src: 'img/logo.svg',
+        src: 'img/logos/logo.svg',
       },
       items: [
         {

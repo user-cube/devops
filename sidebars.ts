@@ -38,10 +38,10 @@ const sidebars: SidebarsConfig = {
           {
             type: 'category',
             label: 'Firewalls',
-            link: { type: 'doc', id: 'aws/networking/firewalls' },
+            link: { type: 'doc', id: 'aws/networking/firewalls/firewalls-intro' },
             items: [
-              'aws/networking/firewalls/security-groups',
               'aws/networking/firewalls/nacls',
+              'aws/networking/firewalls/security-groups',
             ],
           },
           'aws/networking/load-balancers',

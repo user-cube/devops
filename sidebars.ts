@@ -28,6 +28,8 @@ const sidebars: SidebarsConfig = {
               'aws/networking/vpc/routing',
               'aws/networking/vpc/igw',
               'aws/networking/vpc/natgateway',
+              'aws/networking/vpc/privatevspublic',
+              'aws/networking/vpc/dns',
             ],
           },
           {

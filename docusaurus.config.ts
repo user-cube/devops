@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'DevOps Knowledge Base',
+  tagline: 'Centralized documentation for DevOps topics',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://devops.ruicoelho.pt',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'user-cube', // Usually your GitHub org/user name.
+  projectName: 'devops', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -81,15 +81,15 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'kubernetesSidebar',
-          position: 'left',
-          label: 'Kubernetes',
-        },
-        {
-          type: 'docSidebar',
           sidebarId: 'awsSidebar',
           position: 'left',
           label: 'AWS',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'kubernetesSidebar',
+          position: 'left',
+          label: 'Kubernetes',
         },
         {
           type: 'docSidebar',

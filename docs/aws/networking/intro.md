@@ -22,3 +22,6 @@ This section covers core AWS networking concepts and services, including VPCs, r
     - [Security Groups](firewalls/security-groups): Satetfull firewalls on AWS
     - [Network Access Control Lists](firewalls/nacls): Stateless firewalls on AWS
 - [Load Balancers](load-balancers): Types and use cases
+    - [Classic Load Balancers](load-balancers/classic-load-balancer): Classic Load Balancers on AWS
+    - [Application Load Balancers](load-balancers/application-load-balancer): Application Load Balancers on AWS
+    - [Network Load Balancers](load-balancers/network-load-balancer): Network Load Balancers on AWS

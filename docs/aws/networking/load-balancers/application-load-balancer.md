@@ -10,6 +10,8 @@ Application Load Balancers are designed to operate at **Layer 7 (Application Lay
 
 If your application requires other protocols (e.g., TCP or UDP), ALB is **not compatible** — in those cases, consider using a **Network Load Balancer**.
 
+![NACLs Diagram](/img/cloud/aws/elb/alb.png)
+
 ---
 
 ## Key Features

@@ -12,6 +12,8 @@ CLBs are typically used only for **legacy applications** that have not yet been 
 
 One of the most significant limitations of CLBs is their support for **only a single SSL/TLS certificate**. This makes them unsuitable for scenarios where multiple applications with different domains and certificates need to be load balanced under the same endpoint.
 
+![NACLs Diagram](/img/cloud/aws/elb/clb.png)
+
 ---
 
 ## Additional Notes on Classic Load Balancers

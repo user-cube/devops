@@ -44,7 +44,19 @@ const sidebars: SidebarsConfig = {
               'aws/networking/firewalls/security-groups',
             ],
           },
-          'aws/networking/load-balancers',
+          {
+            type: 'category',
+            label: 'Load Balancers',
+            link: { type: 'doc', id: 'aws/networking/load-balancers/load-balancers-intro' },
+            items: [
+              'aws/networking/load-balancers/classic-load-balancer',
+              'aws/networking/load-balancers/application-load-balancer',
+              'aws/networking/load-balancers/network-load-balancer',
+              'aws/networking/load-balancers/load-balancer-comparison',
+              'aws/networking/load-balancers/cross-zone-load-balancing',
+              'aws/networking/load-balancers/other-elb-considerations',
+            ],
+          }
         ],
   },
   ],
